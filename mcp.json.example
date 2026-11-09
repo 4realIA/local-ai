@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fetch": {
+      "command": "/Users/YOUR_USERNAME/.local/bin/mcp-server-fetch"
+    },
+    "search": {
+      "command": "/Users/YOUR_USERNAME/.local/bin/duckduckgo-mcp-server"
+    }
+  }
+}
