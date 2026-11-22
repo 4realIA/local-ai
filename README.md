@@ -1,6 +1,6 @@
 # Running AI locally on a Mac
 
-How I run open AI models on my own Mac for chat, research and video, with web access only when I approve it, and how I check that the data stays put. The background and reasoning are on my site: [4ia.info/local-ai.html](https://4ia.info/local-ai.html).
+How I run open AI models on my own Mac for chat, research and video, with web access only when I approve it, and how I check that the data stays put. The background and reasoning are on my site: [dmd4life.tech/local-ai.html](https://dmd4life.tech/local-ai.html).
 
 Everything here runs on Apple Silicon. It needs no account, subscription or API key.
 
